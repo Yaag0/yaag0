@@ -1,53 +1,53 @@
-# ✦ SANTIAGO MARTÍNEZ CALLE
-### *Full-Stack & Security Engineer | Data Analyst*
+<h1 align="center">✦ SANTIAGO MARTÍNEZ CALLE</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=3500&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Security+Engineer;Data+Analyst;Systems+Engineering+Student" alt="Typing SVG" /></a>
+</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-ff0033?style=flat-square&logo=git&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/badge/Location-Bogot%C3%A1%2C%20Colombia-111111?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/English-C1%20Advanced-111111?style=flat-square&logo=translate&logoColor=white" alt="English C1">
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-ff0033?style=for-the-badge&logo=git&logoColor=white" alt="Status">
+  <img src="https://img.shields.io/badge/Location-Bogot%C3%A1%2C%20Colombia-111111?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/English-B2%20Upper%20Intermediate-111111?style=for-the-badge&logo=translate&logoColor=white" alt="English B2">
 </p>
 
 ---
 
-> *"Moverse entre la métrica del código y la poesía visual. Construir en la sombra para dar orden al caos."*
+<p align="center">
+  <em>"Moverse entre la métrica del código y la poesía visual. Construir en la sombra para dar orden al caos."</em>
+</p>
 
 ---
 
 ### ⚡ ABOUT ME
-Final-year **Systems Engineering** student at Universidad Libre (Bogotá) with strong practical experience in backend engineering, database optimization, advanced data analytics, and applied cybersecurity. I bridge the gap between robust software architecture and clean, immersive user experiences.
+* 🌱 Final-year **Systems Engineering** student at Universidad Libre (Bogotá).
+* 💻 Strong focus on backend architecture (.NET / C#), database optimization, and applied data analytics.
+* 🚀 Passionate about blending robust backend systems with dark, minimalist, and immersive frontend experiences.
 
 ---
 
 ### 🛠️ TECH STACK
 
-* **Languages & Backend:** C#, .NET 8, Python (Advanced), Java, C++, API REST, Razor Pages
-* **Frontend & WebGL:** JavaScript, HTML5/CSS3, Bootstrap, Angular, GLSL Shaders
-* **Data & Big Data:** PostgreSQL, SQL Server, Oracle, MySQL, Power BI, Advanced Excel (VBA/Macros), ETL, Scikit-learn, PyTorch
-* **DevOps & Tools:** Docker, Postman, Git, Arch Linux
-* **Security & Advanced ML:** Post-Quantum Cryptography (Kyber/Dilithium), Federated Learning, Anomaly Detection
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,python,java,cpp,javascript,html,css,bootstrap,angular,postgresql,sqlserver,oracle,mysql,docker,git,linux,postman&perline=6" />
+</p>
 
 ---
 
-### 🚀 FEATURED PROJECTS
-
-| Project | Description & Technologies | Links |
-| :--- | :--- | :--- |
-| **🌌 Interactive Web Portfolio** | Immersive personal portfolio featuring custom WebGL (GLSL) fragment shaders for dynamic starfields and volumetric cloud rendering with 60 FPS performance. | [Portfolio Web](https://github.com/Yaag0) |
-| **🛡️ QuantumSec (PQC-IDS)** | Intrusion Detection System built with PyTorch and Federated Learning, integrating hybrid PQC-AES encryption (Kyber512 & Dilithium) to secure communications against quantum threats. | [GitHub](https://github.com/Yaag0) |
-| **📚 BookRadar App** | Fullstack MVC web application for book management and searching utilizing Open Library API, Entity Framework Core, Stored Procedures, and Razor Pages. | [GitHub](https://github.com/Yaag0) |
-
----
-
-### 📈 GITHUB STATS
+### 📈 GITHUB STATS & TROPHIES
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yaag0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=e0e0e0&icon_color=ff0033" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yaag0&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 📬 CONNECT WITH ME
 
-* **Email:** sntiago.martinezc@gmail.com
-* **LinkedIn:** [santiago-martínez-calle](https://www.linkedin.com/in/santiago-mart%C3%ADnez-calle/)
-* **Phone / WhatsApp:** +57 3234369745
+<p align="center">
+  <a href="mailto:sntiago.martinezc@gmail.com"><img src="https://img.shields.io/badge/Email-sntiago.martinezc@gmail.com-ff0033?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/santiago-mart%C3%ADnez-calle/"><img src="https://img.shields.io/badge/LinkedIn-Santiago%20Mart%C3%ADnez-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Phone-+57%203234369745-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone">
+</p>
