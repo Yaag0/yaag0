@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yaag0.github.io/">
-    <img src="https://img.shields.io/badge/🚀_LAUNCH_INTERACTIVE_PORTFOLIO_WEB-000000?style=for-the-badge&color=000000&labelColor=ff0033&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://yaag0.github.io/](https://yaag0.github.io/portfolio/">
   </a>
 </p>
 
