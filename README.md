@@ -27,7 +27,7 @@
 
 ---
 
-## 01 // ABOUT_ME
+## ABOUT ME
 
 - **Current Focus:** Backend architecture (.NET / C#, Python), database optimization, and high-performance data pipelines.
 - **Exploration:** Advanced cloud infrastructure, React ecosystem, and modern UI/UX design patterns.
@@ -38,7 +38,7 @@
 <!-- LÍNEA DIVISORA ANIMADA -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 02 // TECH_ARSENAL
+## TECH ARSENAL
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -49,16 +49,16 @@
 <!-- LÍNEA DIVISORA ANIMADA -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 03 // METRICS & SYSTEM STATS
+## METRICS & SYSTEM STATS
 
-<!-- ESTADÍSTICAS GENERALES DE GITHUB (REPARADAS Y CONFIGURADAS EN TONOS OSCUROS/ROJOS) -->
+<!-- ESTADÍSTICAS GENERALES DE GITHUB (TEMA TOKYONIGHT / ACENTOS ROJOS Y OSCUROS) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yaag0&show_icons=true&hide_border=true&bg_color=000000&text_color=e0e0e0&icon_color=ff0033&title_color=ff0033&count_private=true" alt="GitHub Stats" />
 </p>
 
-<!-- BARRAS DE LENGUAJES CON ACENTOS ROJOS Y FONDO NEGRO PURO -->
+<!-- BARRAS DE LENGUAJES CONFIGURADAS CON TEMA HEX PERSONALIZADO EN ROJO/MONOCROMÁTICO -->
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yaag0&hide_border=true&bg_color=000000&text_color=e0e0e0&langs_count=7&exclude_repo=s&color_backend=ff0033" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yaag0&hide_border=true&bg_color=000000&text_color=e0e0e0&langs_count=7&exclude_repo=s&custom_title=Top%20Languages&langs_count=6&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@
 <!-- LÍNEA DIVISORA ANIMADA -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 04 // CONNECT
+## CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-mart%C3%ADnez-calle/" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff0033&border=ff0033" alt="LinkedIn" /></a>
