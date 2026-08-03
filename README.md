@@ -20,7 +20,6 @@
 <p align="center">
   <b>Current Focus:</b> Backend architecture (.NET / C#, Python), database optimization, and high-performance data pipelines.<br>
   <b>Exploration:</b> Advanced cloud infrastructure, React ecosystem, and modern UI/UX design patterns.<br>
-  <b>Philosophy:</b> Merging robust, secure backend logic with dark, immersive, custom WebGL/Shader frontend experiences.<br>
   <b>Core Stack:</b> .NET, Python, SQL, Automation, Cryptography & Security concepts.<br>
   <b>Direct Line:</b> sntiago.martinezc@gmail.com
 </p>
