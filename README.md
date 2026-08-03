@@ -1,6 +1,6 @@
 <!-- IMAGEN PRINCIPAL DEL PEGASO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yaag0/Yaag0/main/assets/pegasus.png" width="260" alt="Pegasus Engraving Art" />
+  <img src="https://raw.githubusercontent.com/Yaag0/yaag0/main/assets/pegasus.png" width="260" alt="Pegasus Engraving Art" />
 </p>
 
 <!-- TÍTULO Y ACCESO AL PORTAFOLIO -->
