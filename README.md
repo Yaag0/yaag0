@@ -1,5 +1,5 @@
 <!-- IMAGEN PRINCIPAL DEL PEGASO -->
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/Yaag0/yaag0/main/assets/pegasus.jpg" width="260" alt="Pegasus Engraving Art" />
 </p>
 
@@ -9,16 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&duration=4000&pause=1000&color=FF0033&background=00000000&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Security+Engineer;Systems+Engineering+Student;WebGL+%26+Shaders+Developer" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <a href="https://yaag0.github.io/](https://yaag0.github.io/portfolio/">
-  </a>
-</p>
-
-<p align="center">
-  <em>"Moverse entre la métrica del código y la poesía visual. Construir en la sombra para dar orden al caos."</em>
-</p>
-
 <br>
 
 ---
