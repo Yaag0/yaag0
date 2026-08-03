@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yaag0/Yaag0/main/assets/pegasus.png" width="320" alt="Engraving Pegasus Art" />
+</p>
+
 <h1 align="center">✦ SANTIAGO MARTÍNEZ CALLE</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=3500&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Security+Engineer;Data+Analyst;Systems+Engineering+Student;WebGL+%26+Interactive+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=3500&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Security+Engineer;Data+Analyst+%26+Automation;Systems+Engineering+Student;WebGL+%26+Interactive+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -18,22 +22,25 @@
 
 ---
 
-### ⚡ ABOUT ME
-* 🌱 Final-year **Systems Engineering** student at Universidad Libre (Bogotá).
-* 💻 Specialized in scalable backend architectures (.NET / C#), database optimization, and high-performance data pipelines.
-* 🌌 Passionate about merging rigorous software engineering with immersive, dark minimalist frontend experiences (WebGL/Shaders).
+### ✦ ABOUT ME
+
+- 🔭 **Currently working on:** Backend architecture with .NET / C#, Python, database optimization, and data analytics pipelines.
+- 🌱 **Currently learning:** Advanced cloud infrastructure, React frontend development, and modern UI/UX design patterns.
+- 💡 **Passionate about:** Blending robust backend engineering with dark, immersive, and custom interactive frontend experiences (WebGL/Shaders).
+- 💬 **Ask me about:** .NET, Python, SQL, Data Pipelines, and Security concepts.
+- 📫 **Reach me out:** sntiago.martinezc@gmail.com
 
 ---
 
 ### 🛠️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,dotnet,python,java,cpp,javascript,html,css,bootstrap,angular,postgresql,sqlserver,oracle,mysql,docker,git,linux,postman&perline=6" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,python,java,cpp,javascript,html,css,bootstrap,angular,postgres,sqlserver,oracle,mysql,docker,git,linux,postman,react&perline=7" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-### 🌐 INTERACTIVE PORTFOLIO & SHOWCASE
+### 🌐 PORTFOLIO & SHOWCASE
 
 <p align="center">
   <a href="https://github.com/Yaag0">
@@ -47,10 +54,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yaag0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=e0e0e0&icon_color=ff0033" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yaag0&theme=radical" alt="Profile Details" />
 </p>
 
 <p align="center">
