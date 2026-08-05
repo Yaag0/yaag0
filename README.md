@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&duration=4000&pause=1000&color=FF0033&background=00000000&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Security+Engineer;Systems+Engineering+Student;WebGL+%26+Shaders+Developer" alt="Typing SVG" />
 </p>
+<br>
 <h3 align="center">
   ABOUT ME
 </h3>
@@ -14,7 +15,6 @@
   <b>Direct Line:</b> sntiago.martinezc@gmail.com
 </p>
 <br>
-
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> TECH ARSENAL & SKILLS
 </h3>
@@ -22,10 +22,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,java,cpp,js,angular,react,docker,html,figma,css,postgres,mysql,oracle,git,arch,linux,ps,ai,ae" alt="Skills" />
 </div>
-
-<br>
-
----
 
 <br>
 
