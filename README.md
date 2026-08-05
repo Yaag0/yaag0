@@ -21,7 +21,10 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,java,cpp,js,angular,react,docker,html,figma,css,postgres,mysql,oracle,git,arch,linux,ps,ai,ae" alt="Skills" />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  
+  <br><br>
+
+  <a href="https://github.com/yaag0">
     <img src="https://github-readme-stats.vercel.app/api?username=yaag0&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
 </div>
