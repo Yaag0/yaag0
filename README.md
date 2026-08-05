@@ -1,12 +1,12 @@
 <!-- TÍTULO Y ACCESO AL PORTAFOLIO -->
-<h1 align="center">✦ SANTIAGO MARTÍNEZ CALLE ✦</h1>
+<h1 align="center">✦ Santiago Martínez Calle ✦</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&duration=4000&pause=1000&color=93C5FD&background=00000000&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Security+Engineer;Systems+Engineering+Student;Security+Engineer;Fullstack" alt="Typing SVG" />
 </p>
 <hr>
 <h3 align="center">
-  ABOUT ME
+  About me
 </h3>
 <p align="center">
   <b>Current Focus:</b> Backend architecture (.NET / C#, Python), database optimization, and high-performance data pipelines.<br>
@@ -16,7 +16,7 @@
 </p>
 <hr>
 <h3 align="center">
-  ECH ARSENAL & SKILLS
+  Arsenal & skills
 </h3>
 
 <div align="center">
@@ -30,7 +30,7 @@
 </div>
 <hr>
 <h3 align="center">
-  CONNECT
+  Connect
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-mart%C3%ADnez-calle/" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff0033&border=ff0033" alt="LinkedIn" /></a>
