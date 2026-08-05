@@ -14,7 +14,7 @@
   <b>Core Stack:</b> .NET, Python, SQL, Automation, Cryptography & Security concepts.<br>
   <b>Direct Line:</b> sntiago.martinezc@gmail.com
 </p>
-<br>
+<hr>
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> TECH ARSENAL & SKILLS
 </h3>
@@ -22,13 +22,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,java,cpp,js,angular,react,docker,html,figma,css,postgres,mysql,oracle,git,arch,linux,ps,ai,ae" alt="Skills" />
 </div>
-
-<br>
-
+<hr>
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Art%20Palette.png" width="30" height="30" /> CONNECT
 </h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-mart%C3%ADnez-calle/" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff0033&border=ff0033" alt="LinkedIn" /></a>
   <a href="mailto:sntiago.martinezc@gmail.com" target="blank"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff0033" alt="Gmail" /></a>
