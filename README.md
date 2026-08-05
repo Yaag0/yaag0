@@ -1,3 +1,8 @@
+<!-- IMAGEN PRINCIPAL DEL PEGASO -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yaag0/yaag0/main/assets/pegasus.jpg" width="260" alt="Pegasus Engraving Art" />
+</p>
+
 <!-- TÍTULO Y ACCESO AL PORTAFOLIO -->
 <h1 align="center">✦ SANTIAGO MARTÍNEZ CALLE ✦</h1>
 
@@ -45,22 +50,14 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<br>
-
-<h3 align="center">CREATIVE & DATA SKILLS</h3>
-<!-- BARRAS DE PROGRESO / ESTILOS VISUALES PARA DISEÑO Y OFIMÁTICA -->
-<div align="center">
-
-  <p><b>Adobe Photoshop & Illustrator</b></p>
-  <img src="https://progress-bar.xyz/90/?title=Design&color=ff0033" width="400">
-
-  <p><b>Power BI & Advanced Excel (VBA)</b></p>
-  <img src="https://progress-bar.xyz/85/?title=Data/BI&color=ff0033" width="400">
-
-  <p><b>Adobe After Effects</b></p>
-  <img src="https://progress-bar.xyz/75/?title=Motion&color=ff0033" width="400">
-
-</div>
+<!-- ICONOS DE DISEÑO Y OFIMÁTICA -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
 <br>
 
@@ -71,11 +68,9 @@
 <h3 align="center">GITHUB STATS</h3>
 
 <p align="center">
-  <!-- Esta tarjeta se vincula automáticamente a tus repositorios y proyectos de GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yaag0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Yaag0's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaag0&show_icons=true&theme=tokyonight&hide_border=true" alt="Yaag0's GitHub Stats" />
 </p>
 <p align="center">
-  <!-- Esta tarjeta muestra los lenguajes que más usas en tus proyectos -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaag0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
