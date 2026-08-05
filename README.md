@@ -28,9 +28,7 @@
 <h3 align="center">TECH ARSENAL & SKILLS</h3>
 
 <div align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,py,java,cpp,js,angular,react,docker,html,figma,css,postgres,mysql,oracle,git,arch,linux,ps,ai,ae" alt="Skills" />
-  </a>
 </div>
 
 <br>
