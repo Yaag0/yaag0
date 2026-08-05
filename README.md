@@ -25,7 +25,7 @@
   <br><br>
 
   <a href="https://github.com/Yaag0">
-    <img src="https://github-stats-extended.vercel.app/api?yaag0=octocat&theme=radical">
+    <img src="https://github-stats-extended.vercel.app/api?username=Yaag0&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
 </div>
 <hr>
