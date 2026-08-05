@@ -1,3 +1,8 @@
+<!-- IMAGEN PRINCIPAL DEL PEGASO -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yaag0/yaag0/main/assets/pegasus.jpg" width="260" alt="Pegasus Engraving Art" />
+</p>
+
 <!-- TÍTULO Y ACCESO AL PORTAFOLIO -->
 <h1 align="center">✦ SANTIAGO MARTÍNEZ CALLE ✦</h1>
 
@@ -10,7 +15,9 @@
 
 <br>
 
-<h3 align="center">ABOUT ME</h3>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="30" height="30" /> ABOUT ME
+</h3>
 
 <p align="center">
   <b>Current Focus:</b> Backend architecture (.NET / C#, Python), database optimization, and high-performance data pipelines.<br>
@@ -25,10 +32,12 @@
 
 <br>
 
-<h3 align="center">TECH ARSENAL & SKILLS</h3>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> TECH ARSENAL & SKILLS
+</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,java,cpp,js,angular,react,docker,html,figma,css,postgres,mysql,oracle,git,arch,linux,ps,ai,ae" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,java,cpp,js,angular,react,docker,html,figma,css,postgres,mysql,oracle,git,arch,linux,ps,ai,ae" alt="Skills" />
 </div>
 
 <br>
@@ -37,22 +46,9 @@
 
 <br>
 
-<h3 align="center">GITHUB STATS</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yaag0&show_icons=true&theme=tokyonight&hide_border=true" alt="Yaag0's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaag0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
-<br>
-
----
-
-<br>
-
-<h3 align="center">CONNECT</h3>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Art%20Palette.png" width="30" height="30" /> CONNECT
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-mart%C3%ADnez-calle/" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff0033&border=ff0033" alt="LinkedIn" /></a>
