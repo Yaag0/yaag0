@@ -16,15 +16,16 @@
 </p>
 <hr>
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> TECH ARSENAL & SKILLS
+  ECH ARSENAL & SKILLS
 </h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,java,cpp,js,angular,react,docker,html,figma,css,postgres,mysql,oracle,git,arch,linux,ps,ai,ae" alt="Skills" />
 </div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Art%20Palette.png" width="30" height="30" /> CONNECT
+  CONNECT
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-mart%C3%ADnez-calle/" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff0033&border=ff0033" alt="LinkedIn" /></a>
