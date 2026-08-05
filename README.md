@@ -24,8 +24,8 @@
   
   <br><br>
 
-  <a href="https://github.com/yaag0">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yaag0&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/Yaag0">
+    <img src="https://streak-stats.demolab.com?user=Yaag0&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
 <hr>
