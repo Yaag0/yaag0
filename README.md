@@ -2,7 +2,7 @@
 <h1 align="center">✦ SANTIAGO MARTÍNEZ CALLE ✦</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&duration=4000&pause=1000&color=FF0033&background=00000000&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Security+Engineer;Systems+Engineering+Student;WebGL+%26+Shaders+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&duration=4000&pause=1000&color=93C5FD&background=00000000&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Security+Engineer;Systems+Engineering+Student;WebGL+%26+Shaders+Developer" alt="Typing SVG" />
 </p>
 <hr>
 <h3 align="center">
@@ -25,7 +25,7 @@
   <br><br>
 
   <a href="https://github.com/Yaag0">
-    <img src="https://github-stats-extended.vercel.app/api?username=Yaag0&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yaag0&layout=compact&theme=radical" alt="Top Langs" />
   </a>
 </div>
 <hr>
