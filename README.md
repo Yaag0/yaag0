@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&duration=4000&pause=1000&color=FF0033&background=00000000&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Security+Engineer;Systems+Engineering+Student;WebGL+%26+Shaders+Developer" alt="Typing SVG" />
 </p>
+---
 <br>
 <h3 align="center">
   ABOUT ME
