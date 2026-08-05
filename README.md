@@ -25,7 +25,7 @@
   <br><br>
 
   <a href="https://github.com/Yaag0">
-    <img src="https://streak-stats.demolab.com?user=Yaag0&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-stats-extended.vercel.app/api?Yaag0=octocat&theme=radical">
   </a>
 </div>
 <hr>
