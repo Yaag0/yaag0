@@ -22,7 +22,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,java,cpp,js,angular,react,docker,html,figma,css,postgres,mysql,oracle,git,arch,linux,ps,ai,ae" alt="Skills" />
   
-  <br><br>
+  <hr>
 
   <a href="https://github.com/Yaag0">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yaag0&layout=compact&theme=holi" alt="Top Langs" />
