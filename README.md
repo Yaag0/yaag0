@@ -1,8 +1,3 @@
-<!-- IMAGEN PRINCIPAL DEL PEGASO -->
-<!--<p align="center">
-  <img src="https://raw.githubusercontent.com/Yaag0/yaag0/main/assets/pegasus.jpg" width="260" alt="Pegasus Engraving Art" />
-</p>
-
 <!-- TÍTULO Y ACCESO AL PORTAFOLIO -->
 <h1 align="center">✦ SANTIAGO MARTÍNEZ CALLE ✦</h1>
 
@@ -19,7 +14,7 @@
 
 <p align="center">
   <b>Current Focus:</b> Backend architecture (.NET / C#, Python), database optimization, and high-performance data pipelines.<br>
-  <b>Exploration:</b> Advanced cloud infrastructure, React ecosystem, and modern UI/UX design patterns.<br>
+  <b>Exploration:</b> Advanced cloud infrastructure (AWS), React/Angular ecosystem, and modern UI/UX design patterns.<br>
   <b>Core Stack:</b> .NET, Python, SQL, Automation, Cryptography & Security concepts.<br>
   <b>Direct Line:</b> sntiago.martinezc@gmail.com
 </p>
@@ -32,22 +27,56 @@
 
 <h3 align="center">TECH ARSENAL</h3>
 
-<!-- ICONOS INDIVIDUALES ASEGURANDO VISIBILIDAD TOTAL -->
+<!-- ICONOS DE PROGRAMACIÓN Y DESARROLLO -->
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+<br>
+
+<h3 align="center">CREATIVE & DATA SKILLS</h3>
+<!-- BARRAS DE PROGRESO / ESTILOS VISUALES PARA DISEÑO Y OFIMÁTICA -->
+<div align="center">
+
+  <p><b>Adobe Photoshop & Illustrator</b></p>
+  <img src="https://progress-bar.xyz/90/?title=Design&color=ff0033" width="400">
+
+  <p><b>Power BI & Advanced Excel (VBA)</b></p>
+  <img src="https://progress-bar.xyz/85/?title=Data/BI&color=ff0033" width="400">
+
+  <p><b>Adobe After Effects</b></p>
+  <img src="https://progress-bar.xyz/75/?title=Motion&color=ff0033" width="400">
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<h3 align="center">GITHUB STATS</h3>
+
+<p align="center">
+  <!-- Esta tarjeta se vincula automáticamente a tus repositorios y proyectos de GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaag0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Yaag0's GitHub Stats" />
+</p>
+<p align="center">
+  <!-- Esta tarjeta muestra los lenguajes que más usas en tus proyectos -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaag0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 <br>
