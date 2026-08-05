@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&duration=4000&pause=1000&color=FF0033&background=00000000&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Security+Engineer;Systems+Engineering+Student;WebGL+%26+Shaders+Developer" alt="Typing SVG" />
 </p>
----
 <h3 align="center">
   ABOUT ME
 </h3>
@@ -14,10 +13,6 @@
   <b>Core Stack:</b> .NET, Python, SQL, Automation, Cryptography & Security concepts.<br>
   <b>Direct Line:</b> sntiago.martinezc@gmail.com
 </p>
-<br>
-
----
-
 <br>
 
 <h3 align="center">
